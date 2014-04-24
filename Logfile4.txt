@@ -1,6 +1,0 @@
- lì 08/09/2006 ore->11.41.27 72 bytes da 127.0.0.1: sequenza=0 ttl=128 tempo <10 Ms
- lì 08/09/2006 ore->11.41.28 72 bytes da 127.0.0.1: sequenza=1 ttl=128 tempo <10 Ms
- lì 08/09/2006 ore->11.41.29 72 bytes da 127.0.0.1: sequenza=2 ttl=128 tempo <10 Ms
- lì 08/09/2006 ore->11.41.30 72 bytes da 127.0.0.1: sequenza=3 ttl=128 tempo <10 Ms
- lì 08/09/2006 ore->11.41.31 72 bytes da 127.0.0.1: sequenza=4 ttl=128 tempo <10 Ms
- lì 08/09/2006 ore->11.41.32 72 bytes da 127.0.0.1: sequenza=5 ttl=128 tempo <10 Ms
